@@ -48,8 +48,8 @@ I have a passion for developing and improving my skills so that I can invent coo
   ✉️ Contacts
 </h2>
 
+<a href="mailto:danilmail0110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/danil0110/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://t.me/danulkaaa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
-<a href="https://discordapp.com/users/202009496199888896" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"></a>
 <a href="https://join.skype.com/invite/hnuM0BDUyHzL" target="_blank"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="skype"></a>
 <a href="https://instagram.com/danulkaaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
