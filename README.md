@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center"> 
-  Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="35" />
+  Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
 My name is Danil Zalizchuk and I'm a web developer from Ukraine. I mainly work with Front-end and develop using React, but also I've worked on Back-end for my Full-stack apps.  
