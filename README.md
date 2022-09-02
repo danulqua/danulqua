@@ -6,8 +6,8 @@
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
-My name is Danil Zalizchuk and I'm a web developer from Ukraine. I mainly work with Front-end and develop using React, but also I've worked on Back-end for my Full-stack apps.  
-I have a passion for developing and improving my skills so that I can invent cool apps that can solve specific user problems.
+I'm Danil Zalizchuk, web developer from Ukraine. I mainly work with Front-end, experienced in developing SPAs using React and Vue. Also I've worked on Back-end side for my Full-stack applications.  
+I have a passion for developing and improving my skills so that I can invent cool apps that can solve user specific problems.
 
 <h2>
   🔧 Technologies & Tools
@@ -23,18 +23,23 @@ I have a passion for developing and improving my skills so that I can invent coo
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"></a>
   <a href="https://reactrouter.com" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"></a>
-  <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json"></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="vuejs"></a>
+  <a href="https://nuxtjs.org" target="_blank"><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="nuxt"></a>
+  <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="vuetify"></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
   <a href="https://www.npmjs.com" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"></a>
+  <a href="https://yarnpkg.com" target="_blank"><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn"></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongodb"></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"></a>
   <a href="https://www.fastify.io" target="_blank"><img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify"></a>
   <a href="https://webpack.js.org" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack"></a>
+  <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite"></a>
   <a href="https://eslint.org" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint"></a>
   <a href="https://prettier.io" target="_blank"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"></a>
   <a href="https://www.postman.com" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"></a>
+  <a href="https://www.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"></a>
   <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"></a>
 </p>
 
@@ -53,4 +58,3 @@ I have a passion for developing and improving my skills so that I can invent coo
 <a href="https://www.linkedin.com/in/danil0110/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://t.me/danulkaaa" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
 <a href="https://join.skype.com/invite/hnuM0BDUyHzL" target="_blank"><img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="skype"></a>
-<a href="https://instagram.com/danulkaaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
