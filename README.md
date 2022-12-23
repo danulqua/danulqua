@@ -1,13 +1,13 @@
-<a style="text-decoration: none" href="https://github.com/danil0110">
-  <img src="https://user-images.githubusercontent.com/38916225/137132943-53f82031-310c-4f08-846d-8f7e2b9f211f.jpg" alt="header_image">
+<a style="text-decoration: none" href="https://github.com/danulqua">
+  <img src="https://user-images.githubusercontent.com/38916225/209395550-28ba2a93-9670-4a3a-92cd-c24a6dfd7a38.jpg" alt="header_image">
 </a>
 
 <h1 align="center"> 
   Hi there! <img src="https://i.imgur.com/u8HivgI.gif" width="30" />
 </h1>
 
-I'm Danil Zalizchuk, web developer from Ukraine. I mainly work with Front-end, experienced in developing SPAs using React and Vue. Also I've worked on Back-end side for my Full-stack applications.  
-I have a passion for developing and improving my skills so that I can invent cool apps that can solve user specific problems.
+I'm Danil Zalizchuk, web developer from Ukraine. I mainly work with front end, experienced in developing SPAs using React and Vue. Also I've worked on back end for my full-stack applications.  
+I have a passion for developing and improving my skills so that I can invent cool apps that can solve specific user problems.
 
 <h2>
   🔧 Technologies & Tools
